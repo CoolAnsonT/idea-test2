@@ -11,6 +11,6 @@ public class Main {
         System.out.println("Hello hot-fix2!");
         System.out.println("push test!");
         System.out.println("pull test! - fix from the browser");
-        System.out.println("conflict test - from browser");
+        System.out.println("conflict test1 - from intellij");
     }
 }
