@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Hello Java!");
         System.out.println("Hello Python!");
         System.out.println("Hello hot-fix!");
+        System.out.println("Hello hot-fix2!");
     }
 }
