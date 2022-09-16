@@ -8,5 +8,6 @@ public class Main {
         System.out.println("Hello Python!");
         System.out.println("Hello hot-fix!");
         System.out.println("Hello master1!");
+        System.out.println("Hello hot-fix2!");
     }
 }
